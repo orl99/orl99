@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Rust, Zig, Solidity**
 
-- 👯 I’m looking to collaborate on **Andy web3 project on Rust, Solidity and JS (Angular/React)**
+- 👯 I’m looking to collaborate on **Any web3 project on Rust, Solidity, and JS (Angular/React)**
 
 - 👨‍💻 All of my projects are available at [Here on github](Here on github)
 
