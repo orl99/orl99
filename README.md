@@ -17,7 +17,7 @@
 
 - 💼 Senior Software Engineer with experience in **frontend, backend, and mobile development**
 - ⚡ Strong focus on **scalable architectures, performance, and clean code**
--  Experienced in **Angular React Node.js Nest.js ReactNative Ionic**
+-  Experienced in **Angular, React, Node.js, Nest.js, ReactNative, Ionic**
 - 📱 Experienced in **iOS (Swift), cross-platform, and web apps**
 - 🤖 Exploring **AI-assisted development and intelligent systems**
 - 🌱 Currently learning: **Rust, Zig, Solidity**
