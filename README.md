@@ -26,7 +26,7 @@
 - 🏗️ Experienced across the full stack: **React · Angular · Next.js · Node.js · NestJS · Python · .NET · Java**
 - 📱 Mobile-first: **React Native · Ionic · Capacitor · Swift · Kotlin · Flutter**
 - 🤖 Integrating **AI tools** (GitHub Copilot, Claude Code, OpenAI Codex, MCPs) into daily engineering workflows
-- 🏆 **ETH Seoul Hackathon Winner** (2023 & 2024) — built on-chain reputation systems with Solidity & POAP
+- 🏆 **ETH Seoul Hackathon Winner** (2023) — built on-chain reputation systems with Solidity & POAP
 - 🌱 Currently learning: **Rust · Zig · Solidity**
 - 🏸 Competitive badminton player — same discipline on and off the court
 
