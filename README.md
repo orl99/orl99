@@ -3,7 +3,7 @@
 
 <p align="center">
   Building scalable, high-impact products with modern architectures, clean code, and great UX.<br/>
-  7+ years shipping production software across healthcare, retail, logistics, and Web3.
+  9+ years shipping production software across healthcare, retail, logistics, and Web3.
 </p>
 
 <p align="center">
